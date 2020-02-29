@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2938375d76e7228438544a14d283ce37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - human: {fileID: 1690222338542606784, guid: a3323dea6013439469aa030ce9c73690, type: 3}
+  - bcycle: {fileID: 4541133222432717051, guid: 34f18f6b111bee64a91fe34c1bd740c2,
+      type: 3}
+  - tree: {fileID: 7264817089351235796, guid: 523cddd76e53e664a8add19fdb3145bb, type: 3}
+  - a: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
